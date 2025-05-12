@@ -1,0 +1,51 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Champions League Final 2025: Key Moments",
+        "content": "The 2025 UEFA Champions League final was a spectacle, with Manchester City facing Real Madrid at Wembley. A stunning 89th-minute goal by Erling Haaland sealed the victory for City, while Real Madrid’s Vinicius Jr. fought hard with a brilliant solo run. The match ended 2-1, with City lifting the trophy after a dramatic penalty save by Ederson.",
+        "author": "Olamilekan Samard",
+        "createdAt": "2025-04-29T10:00:00Z",
+        "image": "/images/santiago.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Top 5 Strikers in the Premier League This Season",
+        "content": "The 2024/2025 Premier League season has been a goal-fest, thanks to these top strikers: 1. Erling Haaland (Man City) - 22 goals, 2. Mohamed Salah (Liverpool) - 18 goals, 3. Ollie Watkins (Aston Villa) - 15 goals, 4. Bukayo Saka (Arsenal) - 12 goals, 5. Cole Palmer (Chelsea) - 11 goals. Haaland’s physicality and Salah’s creativity make them stand out, but Watkins is the dark horse this year.",
+        "author": "Olamilekan Samard",
+        "createdAt": "2025-04-29T12:00:00Z",
+        "image": "/images/Salah.jpeg"
+      },
+      {
+        "id": 3,
+        "title": "Transfer Rumors: Mbappé to Manchester United?",
+        "content": "Rumors are swirling that Kylian Mbappé might leave PSG in the summer of 2025, with Manchester United as a top destination. The French superstar, known for his blistering pace and clinical finishing, could be the key to reviving United’s attack. Sources say a £150m deal is in the works, but Liverpool and Real Madrid are also in the race.",
+        "author": "Olamilekan Samard",
+        "createdAt": "2025-04-30T09:00:00Z",
+        "image": "/images/Haaland.jpeg"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Olamilekan Samard",
+        "email": "lekan.samad@yahoo.com"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "postId": 1,
+        "author": "Football Fan",
+        "content": "Amazing analysis of the final! That last-minute goal by Haaland was unreal.",
+        "createdAt": "2025-04-29T11:00:00Z"
+      },
+      {
+        "id": 2,
+        "postId": 2,
+        "author": "Premier League Lover",
+        "content": "Great list! I think Saka deserves a higher spot, though.",
+        "createdAt": "2025-04-29T13:00:00Z"
+      }
+    ]
+  }
